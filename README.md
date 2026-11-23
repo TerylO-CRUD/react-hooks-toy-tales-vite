@@ -11,3 +11,17 @@ A React app for managing a toy collection, connected to a json-server backend.
 - Donate a toy to remove it (DELETE)
 
 ## Installation
+npm install
+npm run server # backend at http://localhost:3001
+npm run dev # frontend, in a second terminal
+## Usage
+Click "Add a Toy" to open the form. Use the Like and Donate buttons on each card.
+
+## Tests
+npm test
+
+## Built With
+React, Vite, json-server, Vitest
+
+## Author
+TerylO-CRUD
